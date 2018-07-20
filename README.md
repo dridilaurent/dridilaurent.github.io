@@ -1,2 +1,0 @@
-# dridilaurent.github.io
-cv
