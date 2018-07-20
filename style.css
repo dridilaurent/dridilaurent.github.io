@@ -1,0 +1,54 @@
+body{ 
+	background-image: url();
+	border-style:solid;
+	margin: 12px;
+	padding: 15PX 25PX 15PX 25PX;
+	font-family:cursive;
+	font-style: unset;
+
+background-image:url(https://vignette.wikia.nocookie.net/simpsons/images/5/50/Wiki-background/revision/latest?cb=20111015160455);
+}
+
+
+.titre{
+	font-size: 50px;
+}
+
+ h3{color:#030303;
+ }
+
+.blockformation{
+    margin: 20px;
+    line-height: 30px;
+    text-align: center;
+    font-family: cursive;
+     }
+
+	
+span{font-size: 30px; color: white;
+}
+
+#contenue{display:inline-flex;
+          justify-content:center
+          border-style:solid;
+          position:center;
+          width: 100%;
+}
+
+.partie01{width:400px;
+          text-align: center;
+
+      }
+
+.partie02{width:400px;
+          text-align: center;
+          }
+
+.partie03{
+          width:400px;
+          text-align: center;
+            }
+
+.theend{text-align: center;
+
+}
